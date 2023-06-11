@@ -1,5 +1,6 @@
-* {
-    background-color: darkgray;
+.main-div{
+    background-color: #eee;
+    height: 100%;
 }
 .name {
     text-align: center;
@@ -10,9 +11,33 @@
     height: 10px;
     
 }
-div > img {
+.image{
     height: 700px;
+    /* width: 95%; */
+    background-color: white;
+    align-items: center;
+    display:block;
+    justify-content: center;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-top: 35px;
+    
+    
+
 }
-#img-div {
-    background: white;
+.imagee{
+    height: 625px;
+    width: 550px;
+
+}
+.content{
+    width: 650px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 34%;
+   
+}
+.lastline {
+    text-align: center;
 }
