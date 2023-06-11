@@ -1,0 +1,30 @@
+* {
+    background-image: url(background.jpg);
+}
+.main-div {
+    text-align: center;
+    border: 2px solid red;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: steelblue;
+    margin-bottom: 20px;
+    color: white;
+}
+.question {
+    margin-top: 20px;
+    border: 2px solid red;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: steelblue;
+}
+
+.labels {
+    color: white;
+    margin: 10px;
+    margin-top: 10px;
+    
+    
+}
+.inputs {
+    margin: 10px;
+}
