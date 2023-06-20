@@ -1,0 +1,35 @@
+*{
+    margin: 10px;
+    background-color: black;
+
+}
+#home{
+    margin-left: -1;
+    margin-right: -1;
+    padding-bottom: 2cm;
+    background-color: blue magenta;
+}
+header{
+    font-size: 30px;
+    color: purple;
+    float: left;
+    padding-left: 2cm;
+
+}
+nav{
+    float: right;
+    padding-right: 1cm;
+
+}
+nav>button{
+    color: lightgray;
+    background-color: purple;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 1mm;
+    font-size: 20px;
+
+}
+nav>button:hover{
+    
+}
